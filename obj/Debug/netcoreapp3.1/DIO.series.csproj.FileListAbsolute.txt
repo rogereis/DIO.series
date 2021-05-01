@@ -1,0 +1,13 @@
+D:\desenvolvimento\estudo\dotnet\workspace\DIO.series\bin\Debug\netcoreapp3.1\DIO.series.exe
+D:\desenvolvimento\estudo\dotnet\workspace\DIO.series\bin\Debug\netcoreapp3.1\DIO.series.deps.json
+D:\desenvolvimento\estudo\dotnet\workspace\DIO.series\bin\Debug\netcoreapp3.1\DIO.series.runtimeconfig.json
+D:\desenvolvimento\estudo\dotnet\workspace\DIO.series\bin\Debug\netcoreapp3.1\DIO.series.runtimeconfig.dev.json
+D:\desenvolvimento\estudo\dotnet\workspace\DIO.series\bin\Debug\netcoreapp3.1\DIO.series.dll
+D:\desenvolvimento\estudo\dotnet\workspace\DIO.series\bin\Debug\netcoreapp3.1\DIO.series.pdb
+D:\desenvolvimento\estudo\dotnet\workspace\DIO.series\obj\Debug\netcoreapp3.1\DIO.series.csprojAssemblyReference.cache
+D:\desenvolvimento\estudo\dotnet\workspace\DIO.series\obj\Debug\netcoreapp3.1\DIO.series.AssemblyInfoInputs.cache
+D:\desenvolvimento\estudo\dotnet\workspace\DIO.series\obj\Debug\netcoreapp3.1\DIO.series.AssemblyInfo.cs
+D:\desenvolvimento\estudo\dotnet\workspace\DIO.series\obj\Debug\netcoreapp3.1\DIO.series.csproj.CoreCompileInputs.cache
+D:\desenvolvimento\estudo\dotnet\workspace\DIO.series\obj\Debug\netcoreapp3.1\DIO.series.dll
+D:\desenvolvimento\estudo\dotnet\workspace\DIO.series\obj\Debug\netcoreapp3.1\DIO.series.pdb
+D:\desenvolvimento\estudo\dotnet\workspace\DIO.series\obj\Debug\netcoreapp3.1\DIO.series.genruntimeconfig.cache
